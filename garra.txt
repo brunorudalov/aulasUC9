@@ -1,0 +1,16 @@
+Abra a garra
+mova a garra para cima
+mova a garra para lampada velha
+fecha a garra
+Gire a garra 180* senti anti-horario
+Gire a garra 180* senti anti-horario
+mova a garra para mesa
+abra a garra
+mova a garra para lampada nova
+fecha a garra
+mova a garra para cima
+mova a garra para o conector da lampada
+gire a garra 180* sentindo horario
+gire a garra 180* sentindo horario
+mova a garra para pocisão inicial
+
