@@ -1,0 +1,17 @@
+olhar para direita e esquerda
+se o semafaro tiver vermelho espera
+se o semafaro tiver amarelo espera
+olhar para direita e esquerda
+se o semafaro tiver verde atravesa a faixa predestre 
+vai a direita
+olhar para direita e esquerda
+se tiver carros passando esperar
+olhar para direita e esquerda
+se não tiver carros passado atravesar a faixa de predestre
+olhar para direita e esquerda
+vai a direita 
+olhar para direita e esquerda
+se tiver carros passando esperar
+olhar para direita e esquerda
+se não tiver carros passado atravesar a faixa de predestre
+
