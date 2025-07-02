@@ -1,0 +1,10 @@
+C:\Users\bruno.srudalov\source\repos\exe6\exe6\bin\Debug\exe6.exe.config
+C:\Users\bruno.srudalov\source\repos\exe6\exe6\bin\Debug\exe6.exe
+C:\Users\bruno.srudalov\source\repos\exe6\exe6\bin\Debug\exe6.pdb
+C:\Users\bruno.srudalov\source\repos\exe6\exe6\obj\Debug\exe6.csproj.AssemblyReference.cache
+C:\Users\bruno.srudalov\source\repos\exe6\exe6\obj\Debug\exe6.Form1.resources
+C:\Users\bruno.srudalov\source\repos\exe6\exe6\obj\Debug\exe6.Properties.Resources.resources
+C:\Users\bruno.srudalov\source\repos\exe6\exe6\obj\Debug\exe6.csproj.GenerateResource.cache
+C:\Users\bruno.srudalov\source\repos\exe6\exe6\obj\Debug\exe6.csproj.CoreCompileInputs.cache
+C:\Users\bruno.srudalov\source\repos\exe6\exe6\obj\Debug\exe6.exe
+C:\Users\bruno.srudalov\source\repos\exe6\exe6\obj\Debug\exe6.pdb
