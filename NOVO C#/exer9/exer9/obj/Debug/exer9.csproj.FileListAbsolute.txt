@@ -1,0 +1,10 @@
+C:\Users\bruno.srudalov\source\repos\exer9\exer9\bin\Debug\exer9.exe.config
+C:\Users\bruno.srudalov\source\repos\exer9\exer9\bin\Debug\exer9.exe
+C:\Users\bruno.srudalov\source\repos\exer9\exer9\bin\Debug\exer9.pdb
+C:\Users\bruno.srudalov\source\repos\exer9\exer9\obj\Debug\exer9.csproj.AssemblyReference.cache
+C:\Users\bruno.srudalov\source\repos\exer9\exer9\obj\Debug\exer9.Form1.resources
+C:\Users\bruno.srudalov\source\repos\exer9\exer9\obj\Debug\exer9.Properties.Resources.resources
+C:\Users\bruno.srudalov\source\repos\exer9\exer9\obj\Debug\exer9.csproj.GenerateResource.cache
+C:\Users\bruno.srudalov\source\repos\exer9\exer9\obj\Debug\exer9.csproj.CoreCompileInputs.cache
+C:\Users\bruno.srudalov\source\repos\exer9\exer9\obj\Debug\exer9.exe
+C:\Users\bruno.srudalov\source\repos\exer9\exer9\obj\Debug\exer9.pdb
