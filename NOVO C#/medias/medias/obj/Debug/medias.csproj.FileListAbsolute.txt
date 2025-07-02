@@ -1,0 +1,10 @@
+C:\Users\bruno.srudalov\source\repos\medias\medias\obj\Debug\medias.csproj.AssemblyReference.cache
+C:\Users\bruno.srudalov\source\repos\medias\medias\obj\Debug\medias.FRMprincipal.resources
+C:\Users\bruno.srudalov\source\repos\medias\medias\obj\Debug\medias.Properties.Resources.resources
+C:\Users\bruno.srudalov\source\repos\medias\medias\obj\Debug\medias.csproj.GenerateResource.cache
+C:\Users\bruno.srudalov\source\repos\medias\medias\obj\Debug\medias.csproj.CoreCompileInputs.cache
+C:\Users\bruno.srudalov\source\repos\medias\medias\bin\Debug\medias.exe.config
+C:\Users\bruno.srudalov\source\repos\medias\medias\bin\Debug\medias.exe
+C:\Users\bruno.srudalov\source\repos\medias\medias\bin\Debug\medias.pdb
+C:\Users\bruno.srudalov\source\repos\medias\medias\obj\Debug\medias.exe
+C:\Users\bruno.srudalov\source\repos\medias\medias\obj\Debug\medias.pdb
