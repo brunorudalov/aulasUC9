@@ -1,0 +1,10 @@
+C:\Users\bruno.srudalov\source\repos\alturas\alturas\bin\Debug\alturas.exe.config
+C:\Users\bruno.srudalov\source\repos\alturas\alturas\bin\Debug\alturas.exe
+C:\Users\bruno.srudalov\source\repos\alturas\alturas\bin\Debug\alturas.pdb
+C:\Users\bruno.srudalov\source\repos\alturas\alturas\obj\Debug\alturas.csproj.AssemblyReference.cache
+C:\Users\bruno.srudalov\source\repos\alturas\alturas\obj\Debug\alturas.FrmPrincipal.resources
+C:\Users\bruno.srudalov\source\repos\alturas\alturas\obj\Debug\alturas.Properties.Resources.resources
+C:\Users\bruno.srudalov\source\repos\alturas\alturas\obj\Debug\alturas.csproj.GenerateResource.cache
+C:\Users\bruno.srudalov\source\repos\alturas\alturas\obj\Debug\alturas.csproj.CoreCompileInputs.cache
+C:\Users\bruno.srudalov\source\repos\alturas\alturas\obj\Debug\alturas.exe
+C:\Users\bruno.srudalov\source\repos\alturas\alturas\obj\Debug\alturas.pdb
