@@ -1,0 +1,10 @@
+C:\Users\bruno.srudalov\source\repos\minicalcu\minicalcu\obj\Debug\minicalcu.csproj.AssemblyReference.cache
+C:\Users\bruno.srudalov\source\repos\minicalcu\minicalcu\obj\Debug\minicalcu.FrmPri.resources
+C:\Users\bruno.srudalov\source\repos\minicalcu\minicalcu\obj\Debug\minicalcu.Properties.Resources.resources
+C:\Users\bruno.srudalov\source\repos\minicalcu\minicalcu\obj\Debug\minicalcu.csproj.GenerateResource.cache
+C:\Users\bruno.srudalov\source\repos\minicalcu\minicalcu\obj\Debug\minicalcu.csproj.CoreCompileInputs.cache
+C:\Users\bruno.srudalov\source\repos\minicalcu\minicalcu\bin\Debug\minicalcu.exe.config
+C:\Users\bruno.srudalov\source\repos\minicalcu\minicalcu\bin\Debug\minicalcu.exe
+C:\Users\bruno.srudalov\source\repos\minicalcu\minicalcu\bin\Debug\minicalcu.pdb
+C:\Users\bruno.srudalov\source\repos\minicalcu\minicalcu\obj\Debug\minicalcu.exe
+C:\Users\bruno.srudalov\source\repos\minicalcu\minicalcu\obj\Debug\minicalcu.pdb
