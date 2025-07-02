@@ -1,0 +1,10 @@
+C:\Users\bruno.srudalov\source\repos\Exercio1\Exercio1\bin\Debug\Exercio1.exe.config
+C:\Users\bruno.srudalov\source\repos\Exercio1\Exercio1\bin\Debug\Exercio1.exe
+C:\Users\bruno.srudalov\source\repos\Exercio1\Exercio1\bin\Debug\Exercio1.pdb
+C:\Users\bruno.srudalov\source\repos\Exercio1\Exercio1\obj\Debug\Exercio1.csproj.AssemblyReference.cache
+C:\Users\bruno.srudalov\source\repos\Exercio1\Exercio1\obj\Debug\Exercio1.fmrPrinci.resources
+C:\Users\bruno.srudalov\source\repos\Exercio1\Exercio1\obj\Debug\Exercio1.Properties.Resources.resources
+C:\Users\bruno.srudalov\source\repos\Exercio1\Exercio1\obj\Debug\Exercio1.csproj.GenerateResource.cache
+C:\Users\bruno.srudalov\source\repos\Exercio1\Exercio1\obj\Debug\Exercio1.csproj.CoreCompileInputs.cache
+C:\Users\bruno.srudalov\source\repos\Exercio1\Exercio1\obj\Debug\Exercio1.exe
+C:\Users\bruno.srudalov\source\repos\Exercio1\Exercio1\obj\Debug\Exercio1.pdb
