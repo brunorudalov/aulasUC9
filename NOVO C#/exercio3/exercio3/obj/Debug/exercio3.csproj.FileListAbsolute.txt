@@ -1,0 +1,10 @@
+C:\Users\bruno.srudalov\source\repos\exercio3\exercio3\bin\Debug\exercio3.exe.config
+C:\Users\bruno.srudalov\source\repos\exercio3\exercio3\bin\Debug\exercio3.exe
+C:\Users\bruno.srudalov\source\repos\exercio3\exercio3\bin\Debug\exercio3.pdb
+C:\Users\bruno.srudalov\source\repos\exercio3\exercio3\obj\Debug\exercio3.csproj.AssemblyReference.cache
+C:\Users\bruno.srudalov\source\repos\exercio3\exercio3\obj\Debug\exercio3.Form1.resources
+C:\Users\bruno.srudalov\source\repos\exercio3\exercio3\obj\Debug\exercio3.Properties.Resources.resources
+C:\Users\bruno.srudalov\source\repos\exercio3\exercio3\obj\Debug\exercio3.csproj.GenerateResource.cache
+C:\Users\bruno.srudalov\source\repos\exercio3\exercio3\obj\Debug\exercio3.csproj.CoreCompileInputs.cache
+C:\Users\bruno.srudalov\source\repos\exercio3\exercio3\obj\Debug\exercio3.exe
+C:\Users\bruno.srudalov\source\repos\exercio3\exercio3\obj\Debug\exercio3.pdb
