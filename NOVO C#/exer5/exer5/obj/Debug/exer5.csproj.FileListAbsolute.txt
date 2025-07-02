@@ -1,0 +1,10 @@
+C:\Users\bruno.srudalov\source\repos\exer5\exer5\bin\Debug\exer5.exe.config
+C:\Users\bruno.srudalov\source\repos\exer5\exer5\bin\Debug\exer5.exe
+C:\Users\bruno.srudalov\source\repos\exer5\exer5\bin\Debug\exer5.pdb
+C:\Users\bruno.srudalov\source\repos\exer5\exer5\obj\Debug\exer5.csproj.AssemblyReference.cache
+C:\Users\bruno.srudalov\source\repos\exer5\exer5\obj\Debug\exer5.Form1.resources
+C:\Users\bruno.srudalov\source\repos\exer5\exer5\obj\Debug\exer5.Properties.Resources.resources
+C:\Users\bruno.srudalov\source\repos\exer5\exer5\obj\Debug\exer5.csproj.GenerateResource.cache
+C:\Users\bruno.srudalov\source\repos\exer5\exer5\obj\Debug\exer5.csproj.CoreCompileInputs.cache
+C:\Users\bruno.srudalov\source\repos\exer5\exer5\obj\Debug\exer5.exe
+C:\Users\bruno.srudalov\source\repos\exer5\exer5\obj\Debug\exer5.pdb
