@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bruno.srudalov\\source\\repos\\DigitaNumero1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9B480D-07C4-4E33-8E19-4B44F77BA806}|DigitaNumero1\\DigitaNumero1.csproj|c:\\users\\bruno.srudalov\\source\\repos\\digitanumero1\\digitanumero1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC9B480D-07C4-4E33-8E19-4B44F77BA806}|DigitaNumero1\\DigitaNumero1.csproj|solutionrelative:digitanumero1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9B480D-07C4-4E33-8E19-4B44F77BA806}|DigitaNumero1\\DigitaNumero1.csproj|C:\\Users\\bruno.srudalov\\source\\repos\\DigitaNumero1\\digitanumero1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9B480D-07C4-4E33-8E19-4B44F77BA806}|DigitaNumero1\\DigitaNumero1.csproj|solutionrelative:digitanumero1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\bruno.srudalov\\source\\repos\\DigitaNumero1\\DigitaNumero1\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "DigitaNumero1\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\bruno.srudalov\\source\\repos\\DigitaNumero1\\DigitaNumero1\\frmPrincipal.cs",
+              "RelativeToolTip": "DigitaNumero1\\frmPrincipal.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:30:52.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bruno.srudalov\\source\\repos\\DigitaNumero1\\DigitaNumero1\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "DigitaNumero1\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\bruno.srudalov\\source\\repos\\DigitaNumero1\\DigitaNumero1\\frmPrincipal.cs [Design]",
+              "RelativeToolTip": "DigitaNumero1\\frmPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:30:32.918Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
