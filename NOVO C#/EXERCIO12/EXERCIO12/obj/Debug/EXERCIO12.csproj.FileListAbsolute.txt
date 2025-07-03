@@ -1,0 +1,10 @@
+C:\Users\bruno.srudalov\source\repos\EXERCIO12\EXERCIO12\obj\Debug\EXERCIO12.csproj.AssemblyReference.cache
+C:\Users\bruno.srudalov\source\repos\EXERCIO12\EXERCIO12\obj\Debug\EXERCIO12.Form1.resources
+C:\Users\bruno.srudalov\source\repos\EXERCIO12\EXERCIO12\obj\Debug\EXERCIO12.Properties.Resources.resources
+C:\Users\bruno.srudalov\source\repos\EXERCIO12\EXERCIO12\obj\Debug\EXERCIO12.csproj.GenerateResource.cache
+C:\Users\bruno.srudalov\source\repos\EXERCIO12\EXERCIO12\obj\Debug\EXERCIO12.csproj.CoreCompileInputs.cache
+C:\Users\bruno.srudalov\source\repos\EXERCIO12\EXERCIO12\bin\Debug\EXERCIO12.exe.config
+C:\Users\bruno.srudalov\source\repos\EXERCIO12\EXERCIO12\bin\Debug\EXERCIO12.exe
+C:\Users\bruno.srudalov\source\repos\EXERCIO12\EXERCIO12\bin\Debug\EXERCIO12.pdb
+C:\Users\bruno.srudalov\source\repos\EXERCIO12\EXERCIO12\obj\Debug\EXERCIO12.exe
+C:\Users\bruno.srudalov\source\repos\EXERCIO12\EXERCIO12\obj\Debug\EXERCIO12.pdb
